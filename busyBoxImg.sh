@@ -4,7 +4,7 @@
 #
 
 # Download the latest version of BusyBox
-wget http://busybox.net/downloads/busybox-1.15.3.tar.bz2
+wget http://busybox.net/downloads/busybox-1.23.2.tar.bz2
 
 # Create a busyroot directory
 mkdir busyroot
